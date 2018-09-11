@@ -175,4 +175,4 @@ def validate_postal_code(zipcode_list):
 if __name__ == "__main__":
     # put your test code here
 
-    print('Hello')
+    print('Hello and hello again')
